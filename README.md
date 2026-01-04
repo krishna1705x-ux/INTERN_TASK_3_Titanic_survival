@@ -45,5 +45,5 @@ Conclusion
 This project demonstrates a complete machine learning pipeline, including data preprocessing, feature engineering, model training, evaluation, and model persistence.
 The trained model successfully predicts passenger survival with good accuracy and follows best practices suitable for an internship-level machine learning task.
 👤 Author
-Krishna Kumar
+Tejaswi Kumar
 Machine Learning Intern
